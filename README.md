@@ -8,3 +8,4 @@ SciPy 2017 Talk
 
 This presentation will discuss the implementation of an image-based identification system for wine labels using Python scientific and machine learning libraries. An overview of the methodology for this technique, called content-based image retrieval, will be presented. Techniques for improving search accuracy and retrieval time will also be discussed. The intended audience is individuals who have a limited/basic familiarity with machine learning and computer vision techniques.
 
+The slides are also available on [Speaker Deck](https://speakerdeck.com/mlgill/efficient-image-search-and-identification-the-making-of-wine-o-dot-ai).
